@@ -1,5 +1,6 @@
 # PYTHONTROOPER
 Pythontrooper - A recreation of Paratrooper but in python (pygame).
+![The Game](https://github.com/RelativisticMechanic/PYTHONTROOPER/blob/main/screenshot.jpg)
 
 ## The Game
 You are a artilleryman placed on a faraway base that is about to be ambushed by the bad guys. Your objective? Shoot their helicopters and planes down before they either bomb your base to smithereens or get their paratroopers high enough to snipe down your base!
